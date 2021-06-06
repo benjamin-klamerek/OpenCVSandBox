@@ -14,5 +14,4 @@
 .cxx
 
 # Project exclude paths
-/opencv/build/
-/opencv/build/intermediates/javac/debug/classes/
+/opencv
